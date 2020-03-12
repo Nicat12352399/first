@@ -3,3 +3,4 @@ status
 add 
 commit -m "mesaj"
 log
+checkout 'commit kodu' (branch name)
