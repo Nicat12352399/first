@@ -4,4 +4,5 @@ add
 commit -m "mesaj"
 log
 checkout 'commit kodu' (branch name)
-developmentde elave olunan setir
+checkout -b branch_name
+merge branch_name //
