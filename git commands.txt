@@ -1,4 +1,5 @@
 git + 
 status 
 add 
-commit 
+commit -m "mesaj"
+log
