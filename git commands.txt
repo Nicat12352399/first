@@ -5,4 +5,7 @@ commit -m "mesaj"
 log
 checkout 'commit kodu' (branch name)
 checkout -b branch_name
-merge branch_name //
+merge branch_name 
+diff
+push remote_name branch_name
+pull
